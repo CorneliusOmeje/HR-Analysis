@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Data Analsis project aims to generate actionable insights from the retail sales data to enhance sales performance of the coffee shop.
+This Data Analsis project aims to generate actionable insights from the employee records to enhance performance and make better decision from the Employee data.
 By analyzing various aspect of the sales data, i seek to identify:
 - How many Employees are working in the organisation,
 - What are percentages of Male and Female Employees,
@@ -14,7 +14,7 @@ By analyzing various aspect of the sales data, i seek to identify:
 <img width="1251" height="771" alt="Screenshot 2025-10-31 040049" src="https://github.com/user-attachments/assets/71dafc91-5505-441e-88b5-22cb22326632" />
 
 ## Data Sources
-Sales Data: The primary dataset used for this analysis is "Coffee Shop Sales" Excel file, containing detailed information of each sales made by the company.  [HR Analytics Data.csv](https://github.com/user-attachments/files/23250019/HR.Analytics.Data.csv)
+Employee Data: The primary dataset used for this analysis is "HR Analytics Data" CSV file, containing detailed information of each sales made by the company.  [HR Analytics Data.csv](https://github.com/user-attachments/files/23250019/HR.Analytics.Data.csv)
 
 ## Analysis Tools Used
 - Microsoft Excel
